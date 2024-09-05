@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My List</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="Item_name">Nome do Item</string>
+    <string name="quantity">Quantidade</string>
+    <string name="save">Salvar</string>
+    <string name="item">Item</string>
+    <string name="init_title">Minha Lista</string>
+    <string name="x_remove_item">X</string>
+    <string name="button_add_new_item">Botão para adicionar um novo item</string>
+    <string name="button_delete_all_items">Botão para apagar todos os itens</string>
+    <string name="button_delete_an_item">Botão para excluir um item</string>
+    <string name="privacy_policy">Política de privacidade.</string>
+    <string name="privacy_policy_link"><![CDATA[<a href="https://devcaior.blogspot.com/2024/05/politica-de-privacidade-este-aplicativo.html">Política de Privacidade</a>]]></string>
+</resources>
